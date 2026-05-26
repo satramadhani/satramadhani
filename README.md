@@ -10,22 +10,11 @@
 <br />
 
 ## About Me
-- 🔭 Working on **C#** and **.NET Core** projects.
-- 📖 Trying to learn **Game Programming**, **Web Development**, and **Software Architecture**.
+- 🔭 Focused on **C#** and **.NET Core** projects.
+- 🗺️ Exploring **Game Programming**, **Web Development**, and **Software Architecture**.
 - 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
-- 💬 Let's discuss about C#, .NET Core, or Domain-Driven Design.
-- 📫 Reach me through the contact part.
-<br />
-
-## GitHub Stats
-
-<div align="center">
-  
-  [![satramadhani's Statistics](https://github-readme-stats.vercel.app/api?username=satramadhani&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/satramadhani)
-  <br />
-  [![satramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satramadhani&theme=transparent&layout=compact)](https://github.com/satramadhani)
-
-</div>
+- 💬 Let's talk about C#, .NET Core, programming in general, or anything you like.
+- 📫 Reach me through the contact section.
 <br />
 
 ## Contact Me
