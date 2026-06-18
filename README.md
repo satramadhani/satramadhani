@@ -11,7 +11,8 @@
 
 ## About Me
 - 🔭 Focused on **C#** and **.NET Core** projects.
-- 🗺️ Exploring **Game Programming**, **Web Development**, and **Software Architecture**.
+- 🗺️ Exploring **Web Development**, **Software Architecture**, and **Cutting-Edge Technologies**.
+- 📚 Currently learning **Swift** and **TypeScript**.  
 - 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
 - 💬 Let's talk about C#, .NET Core, programming in general, or anything you like.
 - 📫 Reach me through the contact section.
