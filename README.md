@@ -10,15 +10,15 @@
 <br />
 
 ## About Me
-- 🔭 Focused on **C#** and **.NET Core** projects.
-- 🗺️ Exploring **Web Development**, **Software Architecture**, and **Cutting-Edge Technologies**.
-- 📚 Currently learning **Swift** and **TypeScript**.  
+- 🔭 Focused on **.NET Core** and **NestJS** projects.
+- 🗺️ Exploring **Web Development**, **Software Architecture** and **Cutting-Edge Technologies**.
+- 📚 Comfortable with **C#**, continuously learning **Swift** and **TypeScript**.  
 - 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
-- 💬 Let's talk about C#, .NET Core, programming in general, or anything you like.
+- 💬 Let's talk about programming in general, AI, keeping up with technology, or anything you like.
 - 📫 Reach me through the contact section.
 <br />
 
 ## Contact Me
 - Blog: `satramadhani.wordpress.com`
-- Instagram: `sat.ramadhani` *(Currently Deactivated)*
-- LinkedIn: `in/satramadhani` *(Currently Deactivated)*
+- Instagram: `sat.ramadhani` *(sometimes, it becomes deactivated)*
+- LinkedIn: `in/satramadhani` *(sometimes, it becomes deactivated)*
